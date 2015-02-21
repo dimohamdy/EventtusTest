@@ -169,7 +169,7 @@ static const CGFloat kDetailsLabelFontSize = 12.f;
 		// Set default values for properties
 		self.animationType = MBProgressHUDAnimationFade;
 		self.mode = MBProgressHUDModeIndeterminate;
-		self.labelText = nil;
+		self.labelText = @"Loading...";
 		self.detailsLabelText = nil;
 		self.opacity = 0.8f;
 		self.color = nil;

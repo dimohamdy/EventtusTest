@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "EventtusTest/Controller/TableViewController.swift"
-            timestampString = "446242294.62531"
+            timestampString = "446253829.455859"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "153"
-            endingLineNumber = "153"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
             landmarkName = "getDate()"
             landmarkType = "5">
          </BreakpointContent>

@@ -32,7 +32,7 @@ class TableViewController: BaseViewController {
         
     }
     override func viewWillAppear(animated: Bool) {
-        self.tableView.hidden = true
+        //self.tableView.hidden = true
     }
 
     override func didReceiveMemoryWarning() {
